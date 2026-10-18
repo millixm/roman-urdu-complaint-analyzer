@@ -1,0 +1,71 @@
+text,category,sentiment,priority
+sir LMS pe assignment submit ni horahi aur deadline kal hai,LMS,Negative,High
+lms ma mera course dikh hi nhi raha pichle 2 din se,LMS,Negative,Medium
+mam quiz attempt karte hue lms crash ho gaya aur marks zero aa gaye please fix urgent,LMS,Negative,High
+lms par uploaded pdf open nahi hoti koi dekh lein,LMS,Negative,Medium
+lecture 5 ki video lms pe kab lagegi,LMS,Neutral,Low
+lms ka naya dashboard kafi achha lag raha hai,LMS,Positive,Low
+lms mein group assignment ka option kahan hota hai,LMS,Neutral,Low
+sir lms ka link kharab hai assignment aaj raat 12 baje tak jama karni hai,LMS,Negative,High
+lms pe discussion forum open nhi ho raha,LMS,Negative,Medium
+lms ke zariye attendance bhi dekhi ja sakti hai kya,LMS,Neutral,Low
+fee jama krwa di thi 3 din pehle lekin portal abhi bhi unpaid dikha raha hai,Fee,Negative,Medium
+kal fee ki last date hai aur challan generate nhi ho raha please help,Fee,Negative,High
+fee waiver ka form kahan se milega,Fee,Neutral,Low
+mujhse late fee charge ki gayi jabke maine time par pay kiya tha,Fee,Negative,Medium
+installment wali facility bohat madadgar thi thanks accounts office,Fee,Positive,Low
+bank ne amount kaat liya magar university ko receive nahi hua aaj hi check karwa dein,Fee,Negative,High
+next semester ki fee kitni hogi,Fee,Neutral,Low
+scholarship ki rakam abhi tak adjust nahi hui,Fee,Negative,Medium
+fee voucher pe mera naam galat print hua hai,Fee,Negative,Medium
+shukriya sir fee refund mil gaya,Fee,Positive,Low
+registration open hote hi portal hang ho jata hai aur kal last date hai,Registration,Negative,High
+kya main apna elective course badal sakta hoon,Registration,Neutral,Low
+mera section full ho gaya hai aur koi alternative nahi mil raha,Registration,Negative,Medium
+course registration ka process bohat asaan tha thanks,Registration,Positive,Low
+add drop ki window kab band hogi,Registration,Neutral,Low
+registration submit krne ke baad bhi confirmation email nhi aaya,Registration,Negative,Medium
+sir mera prerequisite pass hai phir bhi system course allow nahi kar raha aaj last date hai,Registration,Negative,High
+semester freeze ki application ka status kahan check karun,Registration,Neutral,Low
+registration office ne bohat jaldi kaam kar diya shukria,Registration,Positive,Low
+ek hi course do dafa registered show ho raha hai,Registration,Negative,Medium
+sir kal mera paper hai aur admit card abhi tak nahi mila,Examination,Negative,High
+result mein mera ek course missing hai,Examination,Negative,Medium
+final exam ki date sheet kab tak aa jayegi,Examination,Neutral,Low
+do papers ek hi time pe rakhe gaye hain please reschedule krwa dein,Examination,Negative,Medium
+paper ki checking bohat achi hui thanks sir,Examination,Positive,Low
+rechecking fee kitni hoti hai,Examination,Neutral,Low
+aaj ka paper out of course tha students ke saath na-insafi hui hai,Examination,Negative,Medium
+marks ki entry mein ghalti hai gpa kam ho gaya aaj hi correct karwa dein,Examination,Negative,High
+exam hall mein bohat garmi thi,Examination,Negative,Low
+makeup exam ke liye kis ko application deni hai,Examination,Neutral,Low
+mujhe class mein present hone ke bawajood absent mark kiya gaya hai,Attendance,Negative,Medium
+sir attendance shortage ki wajah se kal ka paper nahi dene de rahe please urgent help,Attendance,Negative,High
+attendance sheet kahan dekh sakte hain,Attendance,Neutral,Low
+medical certificate jama kiya tha lekin attendance abhi bhi kam dikha rahi hai,Attendance,Negative,Medium
+attendance ka naya system acha hai shukriya,Attendance,Positive,Low
+condonation ki application kab tak de sakte hain,Attendance,Neutral,Low
+sir ne meri 5 classes ki attendance lagayi hi nahi,Attendance,Negative,Medium
+attendance 70 percent hai kya mujhe exam allow hoga,Attendance,Neutral,Medium
+attendance portal pe kal se update nhi ho raha,Attendance,Negative,Medium
+aaj attendance short hone ki wajah se roll number slip rok li gayi hai please jaldi dekhein,Attendance,Negative,High
+campus ka wifi subah se down hai kuch load nahi hota,Technical,Negative,Medium
+portal login ka otp nahi aa raha aur aaj form submit karna hai,Technical,Negative,High
+lab ke pc itne slow hain ke kaam hi nahi hota,Technical,Negative,Medium
+university email ka password bhool gaya hoon kaise reset karun,Technical,Neutral,Low
+naya wifi router lagane ka shukriya speed bohat achi hai,Technical,Positive,Low
+student portal pe 404 error aa raha hai,Technical,Negative,Medium
+lab mein python install karwane ke liye kis se rabta karun,Technical,Neutral,Low
+projector band hai class kaise hogi abhi,Technical,Negative,High
+software license expire ho gaya hai lab ke computers mein,Technical,Negative,Medium
+wifi ka password kya hai,Technical,Neutral,Low
+library ki book issue karne ki limit kitni hai,General Query,Neutral,Low
+canteen ki quality din ba din kharab ho rahi hai,General Query,Negative,Medium
+campus ka mahol bohat pur sukoon hai,General Query,Positive,Low
+degree kab tak mil jati hai convocation ke baad,General Query,Neutral,Low
+bus subah late aati hai jis se classes miss hoti hain,General Query,Negative,Medium
+hostel mein 2 din se bijli nahi hai,General Query,Negative,High
+student card kho gaya hai kya karna hoga,General Query,Neutral,Low
+sports complex ki timings kya hain,General Query,Neutral,Low
+library staff ka rawayya bohat acha hai shukriya,General Query,Positive,Low
+class rooms ka ac kharab hai aur garmi mein bohat masla ho raha hai,General Query,Negative,Medium

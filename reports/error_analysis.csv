@@ -1,0 +1,19 @@
+text,category,pred_category,sentiment,pred_sentiment,priority,pred_priority
+lms ka naya dashboard kafi achha lag raha hai,LMS,LMS,Positive,Negative,Low,Medium
+lms ke zariye attendance bhi dekhi ja sakti hai kya,LMS,Attendance,Neutral,Neutral,Low,Low
+fee jama krwa di thi 3 din pehle lekin portal abhi bhi unpaid dikha raha hai,Fee,Fee,Negative,Negative,Medium,High
+installment wali facility bohat madadgar thi thanks accounts office,Fee,Technical,Positive,Positive,Low,Low
+bank ne amount kaat liya magar university ko receive nahi hua aaj hi check karwa dein,Fee,Technical,Negative,Negative,High,High
+sir kal mera paper hai aur admit card abhi tak nahi mila,Examination,Examination,Negative,Negative,High,Medium
+final exam ki date sheet kab tak aa jayegi,Examination,Examination,Neutral,Negative,Low,Medium
+rechecking fee kitni hoti hai,Examination,Fee,Neutral,Neutral,Low,Low
+aaj ka paper out of course tha students ke saath na-insafi hui hai,Examination,Examination,Negative,Negative,Medium,High
+marks ki entry mein ghalti hai gpa kam ho gaya aaj hi correct karwa dein,Examination,General Query,Negative,Negative,High,Medium
+exam hall mein bohat garmi thi,Examination,Examination,Negative,Negative,Low,Medium
+medical certificate jama kiya tha lekin attendance abhi bhi kam dikha rahi hai,Attendance,Attendance,Negative,Negative,Medium,High
+attendance 70 percent hai kya mujhe exam allow hoga,Attendance,Attendance,Neutral,Neutral,Medium,Low
+attendance portal pe kal se update nhi ho raha,Attendance,Attendance,Negative,Negative,Medium,High
+canteen ki quality din ba din kharab ho rahi hai,General Query,Technical,Negative,Negative,Medium,Medium
+degree kab tak mil jati hai convocation ke baad,General Query,General Query,Neutral,Negative,Low,Medium
+hostel mein 2 din se bijli nahi hai,General Query,General Query,Negative,Negative,High,Medium
+sports complex ki timings kya hain,General Query,Technical,Neutral,Neutral,Low,Low

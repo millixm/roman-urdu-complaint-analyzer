@@ -1,0 +1,5 @@
+task,input,test_acc,test_f1
+category,raw lowercase text,0.8285714285714286,0.8260376614413881
+category,with our preprocessing,0.8857142857142857,0.8836951686575747
+sentiment,raw lowercase text,0.9428571428571428,0.9300361336946702
+sentiment,with our preprocessing,0.9285714285714286,0.9172416160367968

@@ -1,0 +1,17 @@
+# --- needed to RUN the app ---
+numpy
+pandas
+scikit-learn
+joblib
+streamlit
+
+# --- only needed to RETRAIN / reproduce the report (python -m src.train) ---
+# matplotlib
+# seaborn
+# gensim     (optional: only for the Word2Vec comparison; skip if it fails to install)
+
+# --- only for transformer_experiment.py (Colab / GPU) ---
+# transformers
+# datasets
+# accelerate
+# torch

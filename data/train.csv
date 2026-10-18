@@ -1,0 +1,897 @@
+text,category,sentiment,priority
+lab mein software install kaise hoga?,Technical,Neutral,Low
+"dear sir/mam, paper main out of syllabus questions aaye aur kal last date hai please help",Examination,Negative,High
+"SIR, MEDICAL LEAVE KI ATTENDANCE ABHI TAK ADJUST NAHI HUI BOHAT ZAROORI HAI PLEASE JALDI DEKHEIN",Attendance,Negative,High
+lab mein software install kaise hoga plz batayein,Technical,Neutral,Low
+mam LMS ka server down hy boht zaroori hy please jaldi dekhein,LMS,Negative,High
+enrollment form submit ni horaha,Registration,Negative,Medium
+course add nahi hora section full bata raha hai aur deadline tonight hai,Registration,Negative,High
+"DEAR SIR/MAM, REGISTRATION KE LIYE KIA DOCUMENTS CHAHIYE",Registration,Neutral,Low
+"DEAR SIR/MAM, SCHOLARSHIP KE LIYE KESE APPLY KARTE HYN?",Fee,Neutral,Low
+"SIR, FEE CHALLAN ME GALAT AMOUNT AA RAHA HAI",Fee,Negative,Medium
+"hello sir, late fee ghalat charge hui hai plz help!!",Fee,Negative,Medium
+wifi ka password kese milega,Technical,Neutral,Low
+"hello sir, exam hall ka seating plan kahan hy koi guide kar dein",Examination,Neutral,Low
+salam sir scholarship milne par bohat shukriya shukriya,Fee,Positive,Low
+"assalam o alaikum sir, registration ke liye kya documents chahiye koi guide kar dein :(",Registration,Neutral,Low
+mam administration office kab khulta h,General Query,Neutral,Low
+"dear sir/mam, attendance 75 percent se kam show ho rahi h halanke main classes attend karta hoon",Attendance,Negative,Medium
+lab mein projector kaam ni kar raha,Technical,Negative,Medium
+"respected sir, campus ka environment bhot acha hai keep it up..",General Query,Positive,Low
+LMS pe assignment kahan submit karna hai koi guide kar dein,LMS,Neutral,Low
+"hello sir, enrollment form submit nahi ho raha aur aj last date hai",Registration,Negative,High
+"hello sir, paper main out of syllabus questions aaye and the deadline is tomorrow",Examination,Negative,High
+LATE FEE GHALAT CHARGE HUI HAI ABHI KE ABHI CHAHIYE,Fee,Negative,High
+"respected sir, attendance ka minimum percentage kitna hona chahiye jald batayein",Attendance,Neutral,Medium
+"Sir, attendance update nahi ho rahi boht zaroori hai please jaldi dekhein",Attendance,Negative,High
+attendance ka minimum percentage kitna hona chahiye?,Attendance,Neutral,Low
+mam LMS main lecture videos load ni hotin plz help..,LMS,Negative,Medium
+software lab me system baar baar hang ho jata h kab tak theek hoga?!!!,Technical,Negative,Medium
+"Sir, LMS main lecture videos load ni hotin aor kl last date hai please help",LMS,Negative,High
+"dear sir/mam, exam ki date do papers ke saath clash kar rahi hai kab tak theek hoga?",Examination,Negative,Medium
+"respected sir, attendance kahan check kar sakte hain pls batayein",Attendance,Neutral,Low
+salam sir challan par meri detail galat hai..,Fee,Negative,Medium
+"assalam o alaikum sir, parking mein jagah nai milti aur deadline tonight hai :(",General Query,Negative,High
+sir please fee challan kahan se download karun,Fee,Neutral,Low
+"dear sir/mam, fee kis bank main jama hoti hai kal tak batana hai",Fee,Neutral,Medium
+"dear sir/mam, attendence ka minimum percentage kitna hona chahiye",Attendance,Neutral,Low
+LMS login ni hora password galat bata raha hai,LMS,Negative,Medium
+sir fee challan me galat amount aa raha h please check kar lein,Fee,Negative,Medium
+"RESPARCTED SIR, DEGREE VERIFICATION KAISE HOTI HAI",General Query,Neutral,Low
+"assalam o alaikum sir, university email kaise banate hain?",Technical,Neutral,Low
+LMS ki lecture recordings bohat helpful hain,LMS,Positive,Low
+"assalam o alaikum sir, re-checking ke liye kaisay apply karun jald batayein",Examination,Neutral,Medium
+"Assalam o alaikum sir, university ka wifi bilkul kaam nahi kar raha aur kal last date hai please help!!!",Technical,Negative,High
+sir please portal ka username kia hota h,Technical,Neutral,Low
+mam semester freeze kaise karwate hain,Registration,Neutral,Low
+"dear sir/mam, LMS pe quiz ka schedule kahan milega",LMS,Neutral,Low
+sir please my assignment is not submitting on LMS!!!,LMS,Negative,Medium
+"Sir, course registration ki last date kab hai",Registration,Neutral,Low
+salam sir scholarship ke liye kaise apply karte hain,Fee,Neutral,Low
+sir how do I get a bus pass!!!,General Query,Neutral,Low
+mam result mein meri grade galat hai koi solution batayein,Examination,Negative,Medium
+"dear sir/mam, the library is always overcrowded please help",General Query,Negative,Medium
+"Sir, how do I register for a pre-requisite course..",Registration,Neutral,Low
+"respected sir, canteen mein khana boht ganda hai urgent hai",General Query,Negative,High
+COURSE DROP KARNE KA OPTION NI AA RAHA KOI SOLUTION BATAYEIN,Registration,Negative,Medium
+"dear sir/mam, attendance ka record kab update hota hai",Attendance,Neutral,Low
+LMS pe marks update nhi hue abhi ke abhi chahiye :(,LMS,Negative,High
+"assalam o alaikum sir, registration main meri semester galat show ho rhi hai abhi ke abhi chahiye!!",Registration,Negative,High
+fee installment ka option hai kya?,Fee,Neutral,Low
+LMS pe marks update nahi hue koi solution batayein,LMS,Negative,Medium
+"SIR, EXAM KI DATE DO PAPERS KE SAATH CLASH KAR RAHI HAI AUR KAL LAST DATE HAI PLEASE HELP",Examination,Negative,High
+SALAM SIR ADMIT CARD DOWNLOAD NAHI HORA KOI SOLUTION BATAYEIN,Examination,Negative,Medium
+Admit card download nahin ho rha please help,Examination,Negative,Medium
+fee challan generate nai ho raha koi solution batayein,Fee,Negative,Medium
+"hello sir, fee jama kar di lekin portal pr show nahi horahi aur kal last date hai please help..",Fee,Negative,High
+"assalam o alaikum sir, the library is always overcrowded aur kl exam hai",General Query,Negative,High
+"dear sir/mam, LMS py quiz ka schedule kahan milega?",LMS,Neutral,Low
+paper main out of syllabus questions aaye aur kl last date hy pls help,Examination,Negative,High
+"dear sir/mam, attendance shortage condone nahi ki ja rahi please help",Attendance,Negative,Medium
+"assalam o alaikum sir, attendance 75 percent se kam show ho rahi hy halanke main classes attend karta hoon please check kar lein",Attendance,Negative,Medium
+course registration nahin hori and the deadline is tomorrow!!!,Registration,Negative,High
+sir please section change request abhi tak approve nahi hui urgent hai,Registration,Negative,High
+"resprcted sir, admit card download nahi horaha",Examination,Negative,Medium
+"Dear sir/mam, transcript ke liye kaise apply karte hain is hafte mein chahiye :(",General Query,Neutral,Medium
+"dear sir/mam, washroom mein safai nahi hoti urgent hai",General Query,Negative,High
+"Sir, attendance ka record kab update hota hy kal tak batana hy",Attendance,Neutral,Medium
+"dear sir/mam, teacher bohat late aate hain please jaldi solve kijiye..",General Query,Negative,High
+salam sir IT department ne jaldi issue solve kar diya shukria,Technical,Positive,Low
+sir how do I register for a pre-requisite course?,Registration,Neutral,Low
+"assalam o alaikum sir, fee ka process bohat smooth tha",Fee,Positive,Low
+sir please enrollment form submit nhi ho raha aaj hi resolve karwa dein,Registration,Negative,High
+salam sir LMS pe assignment submit karte hue error aa raha hai!!!,LMS,Negative,Medium
+Sir registration mein meri semester galat show horahi hai!!,Registration,Negative,Medium
+present hone ke bawajood portal par absent show ho raha hai :(,Attendance,Negative,Medium
+"respycted sir, scholarship ka amount fee se minus nahi hua abhi ke abhi chahiye",Fee,Negative,High
+salam sir result kab announce hoga plz batayein,Examination,Neutral,Low
+scholarship ke liye kaise apply karte hain koi guide kar dein,Fee,Neutral,Low
+mam registration portal open nahi ho raha koi solution batayein,Registration,Negative,Medium
+"Sir, teacher bohat late aate hn kab tak theek hoga?",General Query,Negative,Medium
+Sir pls scholarship milne par bohat shukria,Fee,Positive,Low
+Mam fee challan main galat amount aa raha hy,Fee,Negative,Medium
+"dear sir/mam, attendance update nahi hori",Attendance,Negative,Medium
+"Resprcted sir, medical leave ki application kese dein",Attendance,Neutral,Low
+"assalam o alaikum sir, my exam result shows wrong grade please guide karein!!!",Examination,Negative,Medium
+"hello sir, LMS me course enroll kaise karte hain please batayein",LMS,Neutral,Low
+"resparcted sir, registration main meri semester galat show ho rhi h",Registration,Negative,Medium
+"assalam o alaikum sir, where do I submit a leave application?",Attendance,Neutral,Low
+registration ke liye kya documents chahiye?,Registration,Neutral,Low
+mam course add drop kaisay karte hn is hafte main chahiye,Registration,Neutral,Medium
+SALAM SIR I AM UNABLE TO REGISTER FOR MY COURSES AOR KL EXAM HAI :(,Registration,Negative,High
+transcript ke liye kaise apply karte hain,General Query,Neutral,Low
+"Assalam o alaikum sir, attendence kahan check kar sakte hain kal tak batana hai",Attendance,Neutral,Medium
+SALAM SIR REGISTRATION CONFIRM HONE KE BAAD BHI COURSE LIST MEIN NI HAI KOI SOLUTION BATAYEIN,Registration,Negative,Medium
+"respected sir, library ka mahol bohat acha hai thank you",General Query,Positive,Low
+sir plz my attendence is marked wrong in the portal aur deadline kal hai,Attendance,Negative,High
+"DEAR SIR/MAM, EXAM KA PAPER BOHT FAIR THA SHUKRIYA",Examination,Positive,Low
+sir please teacher ne attendence sahi kar di shukriya,Attendance,Positive,Low
+"assalam o alaikum sir, email account login nahi ho raha",Technical,Negative,Medium
+"Dear sir/mam, registration mein meri semester galat show ho rahi hy urgent hy",Registration,Negative,High
+salam sir scholarship ke liye kaise apply karte hain kal tak batana hai,Fee,Neutral,Medium
+student ID card kahan se milega koi guide kar dein,General Query,Neutral,Low
+fee kis bank mein jama hoti hai,Fee,Neutral,Low
+"assalam o alaikum sir, attendance 75 percent se kam show ho rahi hai halanke main classes attend karta hoon",Attendance,Negative,Medium
+mam attendance shortage condone nahi ki ja rahi kab tak theek hoga?,Attendance,Negative,Medium
+"respected sir, re-checking ke liye kaise apply karun?",Examination,Neutral,Low
+"RESPECTED SIR, CAMPUS KA ENVIRONMENT BOHAT ACHA HAI SHUKRIYA",General Query,Positive,Low
+mam LMS ka password reset kaise hoga koi guide kar dein,LMS,Neutral,Low
+"respycted sir, registration confirm hone ke baad bhi course list main nahin hai or aaj last date hai!!",Registration,Negative,High
+"hello sir, course add nahi hora section full bata raha h kab tak theek hoga?",Registration,Negative,Medium
+"assalam o alaikum sir, VPN access kaise milega koi guide kar dein!!",Technical,Neutral,Low
+sir teacher ne meri attendance mark nahi ki,Attendance,Negative,Medium
+salam sir fee installment ka option h kya,Fee,Neutral,Low
+"dear sir/mam, enrollment form submit nhi ho raha aur kal last date hai pls help",Registration,Negative,High
+sir pls LMS ka password reset kese hoga?,LMS,Neutral,Low
+teacher bohat late aate hn,General Query,Negative,Medium
+attendance ka minimum percentage kitna hona chahiye kl tak batana hai,Attendance,Neutral,Medium
+salam sir portal ka username kya hota h plz batayein,Technical,Neutral,Low
+fee refund abhi tak nahi mila please check kar lein,Fee,Negative,Medium
+"dear sir/mam, washroom mein safai nahi hoti",General Query,Negative,Medium
+sir library main ac kaam nahi kar raha koi solution batayein,General Query,Negative,Medium
+how do I register for a pre-requisite course kl tak batana h,Registration,Neutral,Medium
+LMS login nahi ho rha password galat bata raha hai aur kal exam hai,LMS,Negative,High
+re-checking ke liye kese apply karun?,Examination,Neutral,Low
+bus ka time table follow nahi hota kab tak theek hoga?!!!,General Query,Negative,Medium
+"respycted sir, teacher bohat late aate hain",General Query,Negative,Medium
+"assalam o alaikum sir, library mein ac kaam nai kar raha please help",General Query,Negative,Medium
+"resprcted sir, meri registration bina wajah ke reject ho gayi plz help",Registration,Negative,Medium
+fee jama karne ki last date kia hai please batayein,Fee,Neutral,Low
+mam university website bhot slow chal rahi hai and the deadline is tomorrow,Technical,Negative,High
+sir pls LMS par assignment submit nahi ho rahi pls jaldi solve kijiye,LMS,Negative,High
+Mam hostel mein paani nai aa raha plz check kar lein,General Query,Negative,Medium
+SALAM SIR HOW DO I GET A BUS PASS KOI GUIDE KAR DEIN,General Query,Neutral,Low
+"dear sir/mam, course add drop kaisay karte hain please batayein",Registration,Neutral,Low
+"Sir, attendance shortage condone kese hoti h please batayein",Attendance,Neutral,Low
+mam teachers ka behavior bohat acha hai shukriya keep it up,General Query,Positive,Low
+sir roll number slip nahi mil rahi!!!,Examination,Negative,Medium
+sir please fee jama karne ki last date kya hai please batayein,Fee,Neutral,Low
+"Sir, LMS pe assignment submit karte hue error aa raha hai please check kar lein..",LMS,Negative,Medium
+"Sir, mera course lms me nazar nahi aa raha kab tak theek hoga?",LMS,Negative,Medium
+portal login ke liye OTP nahi aa raha abhi ke abhi chahiye!!!,Technical,Negative,High
+salam sir medical leave ki application kaise dein koi guide kar dein!!,Attendance,Neutral,Low
+MERI ATTENDANCE GALAT LAGI HUI HAI PLEASE JALDI SOLVE KIJIYE!!!,Attendance,Negative,High
+Salam sir wifi ka password kaise milega kal tak batana hai,Technical,Neutral,Medium
+sir please LMS par quiz ka schedule kahan milega please batayein,LMS,Neutral,Low
+salam sir LMS mein course enroll kese karte hain,LMS,Neutral,Low
+sir please the campus wifi is not working at all,Technical,Negative,Medium
+"hello sir, wifi ka password kaise milega is hafte mein chahiye",Technical,Neutral,Medium
+"hello sir, LMS mein course enroll kaisay karte hain?",LMS,Neutral,Low
+salam sir university ka wifi bilkul kaam ni kar raha aur deadline tonight hai,Technical,Negative,High
+"HELLO SIR, UNIVERSITY WEBSITE BOHAT SLOW CHAL RAHI HAI BOHAT ZAROORI HAI PLEASE JALDI DEKHEIN",Technical,Negative,High
+mam meri regestration bina wajah ke reject ho gayi plz check kar lein,Registration,Negative,Medium
+"dear sir/mam, canteen main khana bohat ganda hai",General Query,Negative,Medium
+exam hall ka seating plan kahan hai please batayein,Examination,Neutral,Low
+"resprcted sir, online registration ki facility boht acha hai shukriya",Registration,Positive,Low
+"Sir, LMS quiz timer ghalat chal raha h aur submit bhi nahi hua",LMS,Negative,Medium
+"assalam o alaikum sir, LMS login nahi ho raha password galat bata raha hai plz check kar lein",LMS,Negative,Medium
+"hello sir, admit card download nahi ho raha and the deadline is tomorrow",Examination,Negative,High
+sir teachers ka behavior bohat acha hai thanks,General Query,Positive,Low
+"RESPARCTED SIR, MERI ATTENDANCE GALAT LAGI HUI HAI",Attendance,Negative,Medium
+COURSE ADD DROP KAISE KARTE HAIN,Registration,Neutral,Low
+"hello sir, LMS par lecture slides kab upload hongi is hafte main chahiye",LMS,Neutral,Medium
+"Sir, exam ki date do papers ke saath clash kar rahi hai aur aaj last date hai",Examination,Negative,High
+sir please where is the printing facility available,Technical,Neutral,Low
+Mam transcript ke liye kaisay apply karte hain?,General Query,Neutral,Low
+mam exam ki date do papyrs ke saath clash kar rahi hai aur deadline kal hai,Examination,Negative,High
+Sir transcript ke liye kaisay apply karte hain jald batayein,General Query,Neutral,Medium
+LMS par meri uploaded file show nahin hori,LMS,Negative,Medium
+"dear sir/mam, LMS pe asignment kahan submit karna hai",LMS,Neutral,Low
+sir LMS py assignment submit karte hue error aa raha hai,LMS,Negative,Medium
+"assalam o alaikum sir, course add drop kese karte hain please batayein :(",Registration,Neutral,Low
+sir wifi ka password kaise milega kal tak batana hai,Technical,Neutral,Medium
+"SIR, ONLINE REGISTRATION KI FACILITY BHOT ACHA H KEEP IT UP",Registration,Positive,Low
+sir please lab ke computers kharab hain aur kl exam hai,Technical,Negative,High
+"dear sir/mam, teacher bohat late aate hain aaj hi resolve karwa dein",General Query,Negative,High
+sir pls LMS ki lecture recordings bohat helpful hain,LMS,Positive,Low
+sir my attendance is marked wrong in the portal abhi ke abhi chahiye,Attendance,Negative,High
+sir pls section change ho sakta hai kya?,Registration,Neutral,Low
+"respected sir, LMS pe quiz open nahi horaha abhi ke abhi chahiye :(",LMS,Negative,High
+"hello sir, LMS mein lecture videos load nahin hotin kab tak theek hoga?!!!",LMS,Negative,Medium
+"Sir, degree verification kaise hoti hai",General Query,Neutral,Low
+"Sir, attendance ka minimum pyrcentage kitna hona chahiye..",Attendance,Neutral,Low
+"hello sir, fee installment ka option hai kia plz batayein",Fee,Neutral,Low
+mam meri attendance galat lagi hui hai aaj hi resolve karwa dein,Attendance,Negative,High
+"dear sir/mam, LMS pe assignment kahan submit karna h",LMS,Neutral,Low
+salam sir I am unable to register for my courses plz check kar lein,Registration,Negative,Medium
+"assalam o alaikum sir, when will the makeup exam be held",Examination,Neutral,Low
+meri attendance galat lagi hui hai koi solution batayein,Attendance,Negative,Medium
+"assalam o alaikum sir, parking mein jagah nai milti",General Query,Negative,Medium
+"dear sir/mam, the library is always overcrowded aur deadline tonight hai",General Query,Negative,High
+SIR MERI ATTENDANCE GALAT LAGI HUI HAI AUR KAL LAST DATE HAI PLEASE HELP,Attendance,Negative,High
+Sir plz i am unable to register for my courses,Registration,Negative,Medium
+Mam vpn access kese milega koi guide kar dein,Technical,Neutral,Low
+Salam sir meri attendance galat lagi hui hai pls help,Attendance,Negative,Medium
+"assalam o alaikum sir, VPN access kaise milega",Technical,Neutral,Low
+"Sir, IT department ne jaldi issue solve kar diya shukriya keep it up",Technical,Positive,Low
+sir pls attendance sheet mein mera naam nahi hai,Attendance,Negative,Medium
+"dear sir/mam, wifi ka password kaise milega koi guide kar dein!!!",Technical,Neutral,Low
+my exam result shows wrong grade aur deadline tonight hy,Examination,Negative,High
+sir please attendence issue solve karne ka shukria,Attendance,Positive,Low
+"DEAR SIR/MAM, EXAM HALL KA SEATING PLAN KAHAN HAI",Examination,Neutral,Low
+salam sir online registration ki facility bohot acha hai,Registration,Positive,Low
+"assalam o alaikum sir, semester freeze kaise karwate hain",Registration,Neutral,Low
+sir please result main meri grade galat hai kab tak theek hoga?,Examination,Negative,Medium
+mam my attendance is marked wrong in the portal aaj hi resolve karwa dein,Attendance,Negative,High
+paper ke marks galat lage hain and the deadline is tomorrow,Examination,Negative,High
+Sir please lms quiz timer ghalat chal raha hai aur submit bhi ni hua please guide karein,LMS,Negative,Medium
+"respected sir, attendence sheet main mera naam nahi hy aur deadline tonight hy",Attendance,Negative,High
+"Sir, fee challan generate nahi ho raha aur aaj last date h",Fee,Negative,High
+"assalam o alaikum sir, my exam result shows wrong grade",Examination,Negative,Medium
+sir result mein meri grade galat hai abhi ke abhi chahiye,Examination,Negative,High
+"hello sir, LMS ka password reset kaisay hoga jald batayein",LMS,Neutral,Medium
+"assalam o alaikum sir, fee installment ka option hai kya koi guide kar dein",Fee,Neutral,Low
+MIDTERM KA RESULT ABHI TAK NI AAYA,Examination,Negative,Medium
+"dear sir/mam, registration confirm hone ke baad bhi course list mein nahi hai",Registration,Negative,Medium
+"hello sir, bus ka time table follow nahi hota plz check kar lein!!!",General Query,Negative,Medium
+sir fee installment ki facility ke liye shukria shukria..,Fee,Positive,Low
+Sir attendence system ab bohat transparent hai thank you,Attendance,Positive,Low
+sir enrollment form submit nhi ho raha pls jaldi solve kijiye,Registration,Negative,High
+Sir plz course add nahin ho raha section full bata raha h and the deadline is tomorrow,Registration,Negative,High
+"respected sir, LMS quiz timer ghalat chal raha h or submit bhi nai hua please jaldi solve kijiye",LMS,Negative,High
+MIDTERM KA RESULT ABHI TAK NAHI AAYA,Examination,Negative,Medium
+"assalam o alaikum sir, attendance shortage condone kese hoti hai",Attendance,Neutral,Low
+sir I am unable to register for my courses aur deadline kal hai,Registration,Negative,High
+How do i register for a pre-requisite course,Registration,Neutral,Low
+sir challan par meri detail galat hai kab tak theek hoga?,Fee,Negative,Medium
+Mam my attendence is marked wrong in the portal aur kl exam hai,Attendance,Negative,High
+sir canteen me khana bohat ganda hai please guide karein,General Query,Negative,Medium
+sir the library is always overcrowded and the deadline is tomorrow,General Query,Negative,High
+"Hello sir, online registration ki facility boht acha hai",Registration,Positive,Low
+"assalam o alaikum sir, teacher ne attendance sahi kar di shukriya shukriya",Attendance,Positive,Low
+"SIR, COURSE REGISTRATION NHI HO RAHI PLEASE JALDI SOLVE KIJIYE!!!",Registration,Negative,High
+"respycted sir, papyr mein out of syllabus questions aaye and the deadline is tomorrow :(",Examination,Negative,High
+medical leave ki attendence abhi tak adjust nhi hui aur kal last date hai please help,Attendance,Negative,High
+"assalam o alaikum sir, result mein meri grade galat hai please help",Examination,Negative,Medium
+sir plz attendance update nai ho rahi,Attendance,Negative,Medium
+"Sir, course registration ki last date kab hai jald batayein",Registration,Neutral,Medium
+"assalam o alaikum sir, exam hall ka seating plan kahan h?",Examination,Neutral,Low
+"RESPECTED SIR, STUDENT PORTAL OPEN NHI HO RAHA",Technical,Negative,Medium
+"Dear sir/mam, scholarship ke liye kaise apply karte hain",Fee,Neutral,Low
+roll number slip nahi mil rahi please help :(,Examination,Negative,Medium
+Sir how can i access my course on lms,LMS,Neutral,Low
+"dear sir/mam, fee do dafa deduct ho gayi hai aur deadline tonight hai",Fee,Negative,High
+"Sir, midterm ka result abhi tak nahi aaya aor kl last date hai please help",Examination,Negative,High
+"Sir, LMS pe quiz open nahi ho raha plz help",LMS,Negative,Medium
+sir software lab mein system baar baar hang ho jata hai bohat zaroori hai plz jaldi dekhein,Technical,Negative,High
+sir university email kaisay banate hain,Technical,Neutral,Low
+how do I get a bus pass,General Query,Neutral,Low
+"respected sir, the library is always overcrowded please help",General Query,Negative,Medium
+sir please course drop karne ka option ni aa raha :(,Registration,Negative,Medium
+fee do dafa deduct ho gayi hai kab tak theek hoga?,Fee,Negative,Medium
+sir plz when will the makeup exam be held,Examination,Neutral,Low
+"resprcted sir, present hone ke bawajood portal pr absent show hora hai",Attendance,Negative,Medium
+"assalam o alaikum sir, registration ke liye kya documents chahiye?",Registration,Neutral,Low
+"respected sir, portal pe error 500 aa raha hai aaj hi resolve karwa dein",Technical,Negative,High
+"Sir, teacher ne attendence sahi kar di shukriya",Attendance,Positive,Low
+Sir when will the makeup exam be held,Examination,Neutral,Low
+"assalam o alaikum sir, my exam result shows wrong grade aur aaj last date hai",Examination,Negative,High
+Paper ke marks galat lage hain bhot zaroori hai please jaldi dekhein,Examination,Negative,High
+paper mein out of syllabus questions aaye aaj hi resolve karwa dein,Examination,Negative,High
+sir university website bohat slow chal rahi hai please jaldi solve kijiye,Technical,Negative,High
+"assalam o alaikum sir, fee do dafa deduct ho gayi hai pls guide karein",Fee,Negative,Medium
+Sir pls admit card download nahi hora and the deadline is tomorrow,Examination,Negative,High
+sir pls enrollment form submit ni ho raha aor kal exam hai,Registration,Negative,High
+"hello sir, registration ke liye kya documents chahiye is hafte me chahiye",Registration,Neutral,Medium
+"Sir, library ki timing kya hai",General Query,Neutral,Low
+"dear sir/mam, LMS pe lecture slides kab upload hongi",LMS,Neutral,Low
+"RESPRCTED SIR, PARKING MEIN JAGAH NAI MILTI PLS GUIDE KAREIN",General Query,Negative,Medium
+"hello sir, challan par meri detail galat hai kab tak theek hoga? :(",Fee,Negative,Medium
+"assalam o alaikum sir, meri attendance galat lagi hui hai abhi ke abhi chahiye!!",Attendance,Negative,High
+sir library mein ac kaam nahin kar raha aur deadline tonight hai,General Query,Negative,High
+"hello sir, LMS ka server down hai aor aj last date hai",LMS,Negative,High
+FEE REFUND ABHI TAK NAHI MILA KAB TAK THEEK HOGA?,Fee,Negative,Medium
+"Dear sir/mam, semester freeze kaise karwate hain",Registration,Neutral,Low
+"respected sir, result kab announce hoga koi guide kar dein",Examination,Neutral,Low
+"Sir, bank se fee payment ho gayi lekin confirm nahi hui plz guide karein",Fee,Negative,Medium
+"assalam o alaikum sir, bank se fee payment ho gayi lekin confirm nahi hui!!!",Fee,Negative,Medium
+"hello sir, LMS py assignment submit nahi ho rahi urgent hy",LMS,Negative,High
+"dear sir/mam, papyr ka format kya hoga please batayein",Examination,Neutral,Low
+salam sir fee challan generate nhi horaha,Fee,Negative,Medium
+"Resprcted sir, how do i get a bus pass koi guide kar dein",General Query,Neutral,Low
+mam where is the printing facility available koi guide kar dein,Technical,Neutral,Low
+salam sir result jaldi announce karne ka shukriya thank you,Examination,Positive,Low
+MAM REGESTRATION TEAM KA SHUKRIYA JALDI KAAM KAR DIYA SHUKRIYA,Registration,Positive,Low
+salam sir late fee ghalat charge hui hai aor deadline tonight hai,Fee,Negative,High
+"dear sir/mam, bank se fee payment ho gayi lekin confirm nhi hui aor kal last date hai please help",Fee,Negative,High
+Mam lms pr asignment submit nahi hori kab tak theek hoga?..,LMS,Negative,Medium
+sir attendance shortage condone nahi ki ja rahi koi solution batayein!!,Attendance,Negative,Medium
+sir the campus wifi is not working at all,Technical,Negative,Medium
+salam sir LMS pe assignment kahan submit karna hai,LMS,Neutral,Low
+sir attendance ka record kab update hota hai pls batayein,Attendance,Neutral,Low
+course registration ki last date kab hai?,Registration,Neutral,Low
+mam washroom mein safai nahin hoti,General Query,Negative,Medium
+"hello sir, fee challan generate nahi hora kab tak theek hoga?",Fee,Negative,Medium
+what is the fee structure for this semester,Fee,Neutral,Low
+mam what is the fee structure for this semester,Fee,Neutral,Low
+sir plz registration team ka shukriya jaldi kaam kar diya shukriya,Registration,Positive,Low
+Sir class room mein bohat shor hota hai please help,General Query,Negative,Medium
+mam fee challan generate nahi ho raha plz help,Fee,Negative,Medium
+"Assalam o alaikum sir, when will the makeup exam be held plz batayein",Examination,Neutral,Low
+Parking mein jagah nahi milti or deadline kl h,General Query,Negative,High
+Sir please challan par meri detail galat h aur kal last date h please help,Fee,Negative,High
+"dear sir/mam, LMS pe quiz open nahi ho rha please check kar lein",LMS,Negative,Medium
+sir please attendance shortage ki wajah se exam mein nai baithne de rahe please guide karein,Attendance,Negative,Medium
+"dear sir/mam, LMS pr assignment kahan submit karna hai?!!!",LMS,Neutral,Low
+medical leave ki application kaise dein koi guide kar dein :(,Attendance,Neutral,Low
+MAM LMS LOGIN NAHI HO RAHA PASSWORD GALAT BATA RAHA H PLEASE HELP,LMS,Negative,Medium
+My exam result shows wrong grade aj hi resolve karwa dein,Examination,Negative,High
+"resparcted sir, lab ke computers kharab hyn koi solution batayein",Technical,Negative,Medium
+sir exam arrangements boht acha thay keep it up!!,Examination,Positive,Low
+"assalam o alaikum sir, mera course LMS mein nazar nahi aa raha bohot zaroori hai please jaldi dekhein!!!",LMS,Negative,High
+sir semester freeze kaisay karwate hain koi guide kar dein,Registration,Neutral,Low
+SIR PLEASE PAPER KE MARKS GALAT LAGE HAIN KOI SOLUTION BATAYEIN,Examination,Negative,Medium
+"SIR, TEACHERS KA BEHAVIOR BOHAT ACHA HAI SHUKRIA",General Query,Positive,Low
+mam my asignment is not submitting on LMS aur kal exam hai..,LMS,Negative,High
+"respycted sir, attendance shortage ki wajah se exam mein nai baithne de rahe pls jaldi solve kijiye",Attendance,Negative,High
+"respected sir, class room main bohat shor hota hai aur deadline tonight hai",General Query,Negative,High
+medical leave ki attendence abhi tak adjust nahin hui,Attendance,Negative,Medium
+"dear sir/mam, regestration mein meri semester galat show ho rahi hai aur kal last date hai please help",Registration,Negative,High
+salam sir attendance update nhi ho rahi and the deadline is tomorrow,Attendance,Negative,High
+"DEAR SIR/MAM, LIBRARY KA MAHOL BOHAT ACHA HAI KEEP IT UP",General Query,Positive,Low
+"Sir, lab mein projector kaam nahi kar raha kab tak theek hoga?",Technical,Negative,Medium
+course registration ki last date kab hai,Registration,Neutral,Low
+SALAM SIR LMS MEIN LECTURE VIDEOS LOAD NHI HOTIN PLS GUIDE KAREIN,LMS,Negative,Medium
+"dear sir/mam, lab mein projector kaam nhi kar raha",Technical,Negative,Medium
+mam university email kaisay banate hain?,Technical,Neutral,Low
+how can I access my course on LMS,LMS,Neutral,Low
+LMS LOGIN NAHI HORA PASSWORD GALAT BATA RAHA HAI,LMS,Negative,Medium
+mam registration portal open nahi ho raha and the deadline is tomorrow,Registration,Negative,High
+mam course drop karne ka option nahi aa raha please check kar lein,Registration,Negative,Medium
+"dear sir/mam, email account login nahi ho raha please guide karein",Technical,Negative,Medium
+"hello sir, exam hall ka seating plan kahan h please batayein",Examination,Neutral,Low
+LMS login nahi ho rha password galat bata raha hai,LMS,Negative,Medium
+my fee challan is showing wrong amount please jaldi solve kijiye,Fee,Negative,High
+"resprcted sir, paprr mein out of syllabus questions aaye please check kar lein",Examination,Negative,Medium
+sir plz portal ka username kia hota hai plz batayein!!,Technical,Neutral,Low
+sir what is the fee structure for this semester jald batayein,Fee,Neutral,Medium
+"respected sir, attendance shortage condone nahi ki ja rahi aur deadline kal h!!",Attendance,Negative,High
+salam sir attendence system ab bohat transparent hy,Attendance,Positive,Low
+"Sir, attendance kahan check kar sakte hain koi guide kar dein",Attendance,Neutral,Low
+Salam sir transcript ke liye kaise apply karte hyn,General Query,Neutral,Low
+mam teacher ne meri attendance mark nahi ki aj hi resolve karwa dein,Attendance,Negative,High
+SALAM SIR ATTENDANCE UPDATE NI HO RAHI PLZ HELP!!,Attendance,Negative,Medium
+mam scholarship ka amount fee se minus nahi hua plz help :(,Fee,Negative,Medium
+"dear sir/mam, attendance ka minimum prrcentage kitna hona chahiye please batayein",Attendance,Neutral,Low
+"assalam o alaikum sir, my exam result shows wrong grade kab tak theek hoga?",Examination,Negative,Medium
+"assalam o alaikum sir, fee do dafa deduct ho gayi hai please help",Fee,Negative,Medium
+"Sir, fee installment ki facility ke liye shukriya shukriya..",Fee,Positive,Low
+"Sir, attendence ka minimum percentage kitna hona chahiye jald batayein",Attendance,Neutral,Medium
+"dear sir/mam, hostel main paani nahi aa raha aur deadline kal hai",General Query,Negative,High
+"assalam o alaikum sir, how can I access my course on LMS",LMS,Neutral,Low
+salam sir LMS ki lecture recordings boht helpful hain thank you,LMS,Positive,Low
+"assalam o alaikum sir, attendance 75 parrcent se kam show ho rahi h halanke main classes attend karta hoon aur aaj last date h",Attendance,Negative,High
+paper ka format kya hoga please batayein,Examination,Neutral,Low
+"hello sir, LMS ka password reset kaise hoga please batayein",LMS,Neutral,Low
+SIR PLEASE LMS PE ASIGNMENT SUBMIT KARNA AB BOHT ASAAN HY THANK YOU,LMS,Positive,Low
+"assalam o alaikum sir, regestration team ka shukriya jaldi kaam kar diya shukriya",Registration,Positive,Low
+"Sir, LMS ka password reset kaise hoga jald batayein",LMS,Neutral,Medium
+sir teacher bohat late aate hyn kab tak theek hoga?,General Query,Negative,Medium
+"assalam o alaikum sir, how can I access my course on LMS jald batayein!!",LMS,Neutral,Medium
+semester freeze kaise karwate hain koi guide kar dein,Registration,Neutral,Low
+"hello sir, campus ka environment bohat acha h shukria",General Query,Positive,Low
+library main ac kaam nahi kar raha or deadline kal hai,General Query,Negative,High
+"Sir, washroom mein safai nahi hoti koi solution batayein",General Query,Negative,Medium
+sir attendence 75 percent se kam show ho rahi hai halanke main classes attend karta hoon,Attendance,Negative,Medium
+"assalam o alaikum sir, present hone ke bawajood portal pe absent show hora hai bohat zaroori hai pls jaldi dekhein",Attendance,Negative,High
+sir LMS ka password reset kaise hoga,LMS,Neutral,Low
+LMS pe assignment submit karte hue error aa raha hai please help,LMS,Negative,Medium
+"Sir, exam schedule abhi tak upload nahi hua please guide karein",Examination,Negative,Medium
+salam sir mera course LMS main nazar nhi aa raha :(,LMS,Negative,Medium
+"hello sir, mera course LMS mein nazar ni aa raha :(",LMS,Negative,Medium
+sir pls course registration ki last date kab hai?!!,Registration,Neutral,Low
+Sir scholarship ka amount fee se minus nahi hua,Fee,Negative,Medium
+"dear sir/mam, how do I get a bus pass kal tak batana hai",General Query,Neutral,Medium
+"dear sir/mam, attendance shortage ki wajah se exam mein nahi baithne de rahe abhi ke abhi chahiye!!",Attendance,Negative,High
+SIR PLEASE PORTAL PE ERROR 500 AA RAHA H ABHI KE ABHI CHAHIYE,Technical,Negative,High
+exam arrangements bohat acha thay,Examination,Positive,Low
+"Sir, fee do dafa deduct ho gayi hai koi solution batayein",Fee,Negative,Medium
+"hello sir, attendance shortage condone kaisay hoti hy",Attendance,Neutral,Low
+"Sir, parking main jagah nai milti aur deadline tonight h",General Query,Negative,High
+SIR PLZ ATTENDENCE KA MINIMUM PERCENTAGE KITNA HONA CHAHIYE,Attendance,Neutral,Low
+"DEAR SIR/MAM, MY FEE CHALLAN IS SHOWING WRONG AMOUNT PLEASE CHECK KAR LEIN",Fee,Negative,Medium
+"hello sir, the campus wifi is not working at all koi solution batayein",Technical,Negative,Medium
+"assalam o alaikum sir, lab mein software install kaise hoga",Technical,Neutral,Low
+attendance shortage condone kese hoti hai koi guide kar dein,Attendance,Neutral,Low
+"Respected sir, online registration ki facility bohat acha hy keep it up",Registration,Positive,Low
+sir please I am unable to register for my courses,Registration,Negative,Medium
+"assalam o alaikum sir, when will the makeup exam be held koi guide kar dein",Examination,Neutral,Low
+"respycted sir, section change ho sakta hai kya jald batayein!!",Registration,Neutral,Medium
+medical leave ki attendence abhi tak adjust nahi hui koi solution batayein,Attendance,Negative,Medium
+"Sir, LMS login nahi ho rha password galat bata raha hai aur aaj last date hai",LMS,Negative,High
+LMS ka server down hai kab tak theek hoga?!!!,LMS,Negative,Medium
+"dear sir/mam, my exam result shows wrong grade!!",Examination,Negative,Medium
+"dear sir/mam, registration portal open nahi ho raha please help",Registration,Negative,Medium
+salam sir attendence update nahi hori and the deadline is tomorrow,Attendance,Negative,High
+mam transcript ke liye kaise apply karte hain koi guide kar dein,General Query,Neutral,Low
+MAM ATTENDENCE SYSTEM AB BOHAT TRANSPARENT H SHUKRIYA!!!,Attendance,Positive,Low
+MAM MIDTERM KA RESULT ABHI TAK NI AAYA PLEASE CHECK KAR LEIN,Examination,Negative,Medium
+MAM FEE CHALLAN KAHAN SE DOWNLOAD KARUN?,Fee,Neutral,Low
+"hello sir, exam arrangements bhot acha thay keep it up",Examination,Positive,Low
+"dear sir/mam, paper ke marks galat lage hain please help",Examination,Negative,Medium
+salam sir paper ke marks galat lage hyn please jaldi solve kijiye,Examination,Negative,High
+registration portal open nahi ho raha please guide karein,Registration,Negative,Medium
+Sir pls attendence shortage condone nahi ki ja rahi urgent h,Attendance,Negative,High
+Salam sir my asignment is not submitting on lms kab tak theek hoga?..,LMS,Negative,Medium
+"resparcted sir, fee installment ki facility ke liye shukriya thank you",Fee,Positive,Low
+sir plz LMS se course material download nahin hora or aj last date hai,LMS,Negative,High
+course add drop kaisay karte hain,Registration,Neutral,Low
+"dear sir/mam, scholarship ke liye kaise apply karte hain :(",Fee,Neutral,Low
+Medical leave ki application kese dein,Attendance,Neutral,Low
+"assalam o alaikum sir, transcript ke liye kaise apply karte hain koi guide kar dein!!",General Query,Neutral,Low
+mam library ki timing kya hy,General Query,Neutral,Low
+sir present hone ke bawajood portal pr absent show ho raha hai please jaldi solve kijiye,Attendance,Negative,High
+"Sir, course add drop kaise karte hyn",Registration,Neutral,Low
+"dear sir/mam, VPN access kaise milega is hafte mein chahiye!!",Technical,Neutral,Medium
+"hello sir, washroom main safai ni hoti aur aaj last date hai",General Query,Negative,High
+salam sir fee installment ka option hy kya koi guide kar dein..,Fee,Neutral,Low
+sir please fee kis bank mein jama hoti hai,Fee,Neutral,Low
+"hello sir, LMS pe lecture slides kab upload hongi",LMS,Neutral,Low
+Paprr ka format kya hoga jald batayein,Examination,Neutral,Medium
+salam sir student portal open nahin ho raha aur kal exam hai,Technical,Negative,High
+SALAM SIR ADMINISTRATION OFFICE KAB KHULTA HAI?,General Query,Neutral,Low
+sir registration portal oparn nhi horaha pls guide karein,Registration,Negative,Medium
+salam sir scholarship ka amount fee se minus nahi hua please help,Fee,Negative,Medium
+"Sir, VPN access kaise milega kal tak batana hai..",Technical,Neutral,Medium
+"resparcted sir, paparr ke marks galat lage hyn koi solution batayein",Examination,Negative,Medium
+"dear sir/mam, exam arrangements bohat acha thay keep it up!!!",Examination,Positive,Low
+sir fee challan mein galat amount aa raha hai aur deadline tonight hai,Fee,Negative,High
+mam LMS mein course enroll kaise karte hyn,LMS,Neutral,Low
+mam software lab mein system baar baar hang ho jata hai please check kar lein,Technical,Negative,Medium
+"dear sir/mam, medical leave ki attendence abhi tak adjust nahi hui pls guide karein..",Attendance,Negative,Medium
+"respected sir, I am unable to register for my courses aj hi resolve karwa dein",Registration,Negative,High
+salam sir LMS pr marks update nahin hue koi solution batayein,LMS,Negative,Medium
+sir please lab mein projector kaam nahin kar raha please guide karein :(,Technical,Negative,Medium
+sir plz bank se fee payment ho gayi lekin confirm nai hui plz check kar lein,Fee,Negative,Medium
+COURSE DROP KARNE KA OPTION NAHI AA RAHA KAB TAK THEEK HOGA?,Registration,Negative,Medium
+lab ke computers kharab hain please help,Technical,Negative,Medium
+MAM WIFI KA PASSWORD KESE MILEGA KOI GUIDE KAR DEIN,Technical,Neutral,Low
+sir please what is the fee structure for this semester,Fee,Neutral,Low
+mam LMS pr quiz ka schedule kahan milega?,LMS,Neutral,Low
+"Sir, IT department ne jaldi issue solve kar diya shukriya shukriya",Technical,Positive,Low
+sir pls LMS ka naya interface boht acha hai shukriya,LMS,Positive,Low
+Lms ka naya interface bohat acha hai keep it up,LMS,Positive,Low
+"dear sir/mam, where is the printing facility available?",Technical,Neutral,Low
+"assalam o alaikum sir, registration portal oprn nahi ho raha urgent hai!!",Registration,Negative,High
+scholarship ke liye kaise apply karte hn please batayein,Fee,Neutral,Low
+MY ASSIGNMENT IS NOT SUBMITTING ON LMS AUR KAL EXAM HAI,LMS,Negative,High
+Salam sir campus ka environment boht acha hai,General Query,Positive,Low
+paprr ka format kya hoga is hafte mein chahiye!!!,Examination,Neutral,Medium
+"Respycted sir, parking mein jagah nahi milti aur deadline kal hai",General Query,Negative,High
+exam ki date do papers ke saath clash kar rahi hai please jaldi solve kijiye,Examination,Negative,High
+sir attendance update nahi ho rahi urgent hai :(,Attendance,Negative,High
+"Sir, LMS pe assignment submit karna ab bhot asaan hai",LMS,Positive,Low
+sir section change request abhi tak approve nahi hui please help :(,Registration,Negative,Medium
+"SIR, PORTAL PAR ERROR 500 AA RAHA HAI AUR KAL EXAM HAI",Technical,Negative,High
+sir LMS ka naya interface bohot acha hai thank you,LMS,Positive,Low
+mam what is the fee structure for this semester kal tak batana hy,Fee,Neutral,Medium
+sir portal login ke liye OTP nahi aa raha aaj hi resolve karwa dein,Technical,Negative,High
+software lab mein system baar baar hang ho jata hai koi solution batayein,Technical,Negative,Medium
+"resparcted sir, university website bohat slow chal rahi hai please check kar lein",Technical,Negative,Medium
+Salam sir university email kaise banate hain koi guide kar dein,Technical,Neutral,Low
+enrollment form submit nahi horaha,Registration,Negative,Medium
+sir enrollment form submit nahi ho rha plz help,Registration,Negative,Medium
+"Sir, student portal opyn nai ho raha aaj hi resolve karwa dein..",Technical,Negative,High
+"hello sir, fee refund abhi tak nahin mila plz guide karein",Fee,Negative,Medium
+sir attendence issue solve karne ka shukriya :(,Attendance,Positive,Low
+mam present hone ke bawajood portal par absent show ho raha hai kab tak theek hoga?,Attendance,Negative,Medium
+salam sir hostel mein paani nhi aa raha abhi ke abhi chahiye!!!,General Query,Negative,High
+"RESPARCTED SIR, EMAIL ACCOUNT LOGIN NAHIN HO RAHA PLZ GUIDE KAREIN",Technical,Negative,Medium
+SIR IS DAFA REGISTRATION PROCESS BOHAT ASAAN THA,Registration,Positive,Low
+"dear sir/mam, course regestration nahi ho rahi aj hi resolve karwa dein!!",Registration,Negative,High
+teacher ne attendence sahi kar di shukriya keep it up :(,Attendance,Positive,Low
+"RESPYCTED SIR, COURSE REGISTRATION NHI HORI KAB TAK THEEK HOGA?",Registration,Negative,Medium
+salam sir roll number slip nahi mil rahi urgent hai,Examination,Negative,High
+"hello sir, enrollment form submit nahin hora..",Registration,Negative,Medium
+"hello sir, how do I register for a pre-requisite course",Registration,Neutral,Low
+Salam sir lms se course material download nahi ho raha aj hi resolve karwa dein,LMS,Negative,High
+"Sir, course add drop kese karte hain koi guide kar dein",Registration,Neutral,Low
+SIR ONLINE REGESTRATION KI FACILITY BOHT ACHA HAI SHUKRIYA,Registration,Positive,Low
+"Sir, exam hall ka seating plan kahan hai",Examination,Neutral,Low
+wifi ka password kaise milega koi guide kar dein,Technical,Neutral,Low
+salam sir registration me meri semester galat show ho rahi h plz help,Registration,Negative,Medium
+SIR FEE REFUND ABHI TAK NAHI MILA KOI SOLUTION BATAYEIN,Fee,Negative,Medium
+Sir teachers ka behavior boht acha hai shukria thank you,General Query,Positive,Low
+"assalam o alaikum sir, library ka mahol boht acha hai",General Query,Positive,Low
+LMS pe lecture slides kab upload hongi koi guide kar dein,LMS,Neutral,Low
+"dear sir/mam, administration office kab khulta hai!!",General Query,Neutral,Low
+sir please LMS pe assignment submit karte hue error aa raha hai or aaj last date hai,LMS,Negative,High
+SALAM SIR UNIVERSITY KA WIFI BILKUL KAAM NAHI KAR RAHA URGENT HY,Technical,Negative,High
+"dear sir/mam, registration main meri semester galat show ho rahi hai please guide karein",Registration,Negative,Medium
+MEDICAL LEAVE KI ATTENDANCE ABHI TAK ADJUST NAHI HUI PLEASE GUIDE KAREIN,Attendance,Negative,Medium
+"Sir, LMS mein course enroll kaisay karte hain is hafte mein chahiye",LMS,Neutral,Medium
+sir plz result mein meri grade galat hai plz help,Examination,Negative,Medium
+When will the makeup exam be held jald batayein,Examination,Neutral,Medium
+Transcript ke liye kese apply karte hain,General Query,Neutral,Low
+"respected sir, parking mein jagah ni milti plz help",General Query,Negative,Medium
+"respected sir, canteen me khana boht ganda hai",General Query,Negative,Medium
+"Assalam o alaikum sir, my fee challan is showing wrong amount koi solution batayein",Fee,Negative,Medium
+"hello sir, bank se fee payment ho gayi lekin confirm nahi hui kab tak theek hoga?",Fee,Negative,Medium
+course add nhi ho rha section full bata raha hy kab tak theek hoga?,Registration,Negative,Medium
+"assalam o alaikum sir, how do I register for a pre-requisite course?",Registration,Neutral,Low
+mam LMS quiz timer ghalat chal raha hai or submit bhi nahin hua and the deadline is tomorrow,LMS,Negative,High
+"RESPRCTED SIR, STUDENT ID CARD KAHAN SE MILEGA? :(",General Query,Neutral,Low
+sir pls fee challan generate nahi ho raha and the deadline is tomorrow,Fee,Negative,High
+"hello sir, LMS pe asignment submit karna ab boht asaan hai",LMS,Positive,Low
+mam lab ke computers kharab hn koi solution batayein,Technical,Negative,Medium
+LMS PY MERI UPLOADED FILE SHOW NAHI HO RAHI KOI SOLUTION BATAYEIN,LMS,Negative,Medium
+sir course registration ki last date kab h koi guide kar dein!!!,Registration,Neutral,Low
+"assalam o alaikum sir, the library is always overcrowded aur deadline kl hai",General Query,Negative,High
+"Sir, fee challan generate nahi ho raha kab tak theek hoga?",Fee,Negative,Medium
+"Dear sir/mam, exam hall ka seating plan kahan hai..",Examination,Neutral,Low
+exam schedule abhi tak upload nahin hua please help..,Examination,Negative,Medium
+"dear sir/mam, university website boht slow chal rahi hai kab tak theek hoga?",Technical,Negative,Medium
+sir please registration confirm hone ke baad bhi course list mein nahi hai please help,Registration,Negative,Medium
+LMS pe assignment submit karte hue error aa raha h plz check kar lein,LMS,Negative,Medium
+sir please library mein ac kaam nahi kar raha please check kar lein,General Query,Negative,Medium
+sir please university website boht slow chal rahi hy!!,Technical,Negative,Medium
+lab ke naye computers bohot acche hain..,Technical,Positive,Low
+"resprcted sir, re-checking ka result abhi tak nahin aaya",Examination,Negative,Medium
+"assalam o alaikum sir, teacher ne meri attendance mark nahi ki please help",Attendance,Negative,Medium
+mam LMS se course material download ni ho raha please guide karein,LMS,Negative,Medium
+sir late fee ghalat charge hui hai aur kal exam hai,Fee,Negative,High
+fee ka process bohat smooth tha thank you,Fee,Positive,Low
+"Sir, VPN access kaise milega",Technical,Neutral,Low
+"hello sir, where do I submit a leave application?",Attendance,Neutral,Low
+"DEAR SIR/MAM, LAB MEIN PROJECTOR KAAM NAI KAR RAHA",Technical,Negative,Medium
+wifi ab boht fast hai thanks,Technical,Positive,Low
+Salam sir challan par meri detail galat hai,Fee,Negative,Medium
+"respycted sir, section change request abhi tak approve nhi hui aur kal last date hai please help",Registration,Negative,High
+sir please meri attendence galat lagi hui h,Attendance,Negative,Medium
+"Sir, my asignment is not submitting on LMS!!!",LMS,Negative,Medium
+"dear sir/mam, LMS ki lecture recordings bohat helpful hain thanks",LMS,Positive,Low
+REGESTRATION MEIN MERI SEMESTER GALAT SHOW HO RAHI HAI PLZ JALDI SOLVE KIJIYE,Registration,Negative,High
+sir fee ka process bhot smooth tha thank you,Fee,Positive,Low
+"dear sir/mam, attendance kahan check kar sakte hain koi guide kar dein :(",Attendance,Neutral,Low
+"respected sir, administration office kab khulta hai koi guide kar dein :(",General Query,Neutral,Low
+"hello sir, challan par meri detail galat hai :(",Fee,Negative,Medium
+"respected sir, LMS ka naya interface bohat acha hai keep it up..",LMS,Positive,Low
+"dear sir/mam, medical leave ki attendence abhi tak adjust nai hui koi solution batayein",Attendance,Negative,Medium
+"ASSALAM O ALAIKUM SIR, MY FEE CHALLAN IS SHOWING WRONG AMOUNT BOHAT ZAROORI HY PLS JALDI DEKHEIN",Fee,Negative,High
+sir registration portal oparn nahi ho raha koi solution batayein,Registration,Negative,Medium
+"respected sir, class room main bohat shor hota hai kab tak theek hoga?",General Query,Negative,Medium
+"dear sir/mam, software lab main system baar baar hang ho jata hai aur aaj last date hai",Technical,Negative,High
+university website bohot slow chal rahi hai kab tak theek hoga?,Technical,Negative,Medium
+sir please medical leave ki application kese dein?,Attendance,Neutral,Low
+SALAM SIR ATTENDENCE KAHAN CHECK KAR SAKTE HAIN?,Attendance,Neutral,Low
+salam sir attendance sheet main mera naam nahi hai,Attendance,Negative,Medium
+"hello sir, teachers ka behavior bohat acha hai shukria keep it up",General Query,Positive,Low
+salam sir LMS quiz timer ghalat chal raha hai aor submit bhi nai hua please check kar lein,LMS,Negative,Medium
+"Sir, washroom mein safai ni hoti",General Query,Negative,Medium
+"hello sir, bank se fee payment ho gayi lekin confirm nahi hui abhi ke abhi chahiye",Fee,Negative,High
+student portal open ni ho raha aur deadline tonight hai,Technical,Negative,High
+sir fee challan mein galat amount aa raha hai kab tak theek hoga?!!,Fee,Negative,Medium
+"dear sir/mam, LMS se course material download nahi ho rha aur deadline tonight hai",LMS,Negative,High
+"assalam o alaikum sir, exam arrangements bohat acha thay keep it up",Examination,Positive,Low
+my assignment is not submitting on LMS,LMS,Negative,Medium
+"dear sir/mam, how do I get a bus pass",General Query,Neutral,Low
+Salam sir lab ke naye computers bohot acche hain shukriya,Technical,Positive,Low
+salam sir medical leave ki attendance abhi tak adjust nahi hui kab tak theek hoga?,Attendance,Negative,Medium
+SALAM SIR ATTENDANCE KAHAN CHECK KAR SAKTE HAIN KOI GUIDE KAR DEIN,Attendance,Neutral,Low
+"dear sir/mam, when will the makeup exam be held",Examination,Neutral,Low
+salam sir registration portal oprn ni ho raha,Registration,Negative,Medium
+"dear sir/mam, medical leave ki application kese dein kl tak batana hai",Attendance,Neutral,Medium
+"hello sir, what is the fee structure for this semester?",Fee,Neutral,Low
+LMS pe asignment submit nai ho rahi koi solution batayein,LMS,Negative,Medium
+"Sir, library mein ac kaam nahi kar raha",General Query,Negative,Medium
+"Sir, midterm ka result abhi tak nahi aaya",Examination,Negative,Medium
+"dear sir/mam, degree verification kaise hoti hai",General Query,Neutral,Low
+sir please course registration ki last date kab hai,Registration,Neutral,Low
+"dear sir/mam, fee kis bank mein jama hoti hy",Fee,Neutral,Low
+sir LMS mein lecture videos load nahi hotin urgent hai,LMS,Negative,High
+Administration office kab khulta hai,General Query,Neutral,Low
+"DEAR SIR/MAM, ONLINE REGISTRATION KI FACILITY BOHT ACHA HAI SHUKRIA",Registration,Positive,Low
+"Sir, midterm ka schedule kab aayega?",Examination,Neutral,Low
+sir transcript ke liye kaise apply karte hyn,General Query,Neutral,Low
+mam lab ke naye computers bhot acche hyn thank you,Technical,Positive,Low
+salam sir the campus wifi is not working at all,Technical,Negative,Medium
+"Sir, bank se fee payment ho gayi lekin confirm nahi hui aur aaj last date hai :(",Fee,Negative,High
+salam sir library mein ac kaam nahi kar raha aur kal last date h please help..,General Query,Negative,High
+"assalam o alaikum sir, canteen main khana bohot ganda h please check kar lein",General Query,Negative,Medium
+"respected sir, exam arrangements bohat acha thay",Examination,Positive,Low
+library ki timing kya h please batayein,General Query,Neutral,Low
+"Sir, where is the printing facility available?",Technical,Neutral,Low
+"assalam o alaikum sir, teacher ne meri attendance mark nai ki aur kal exam hai",Attendance,Negative,High
+"respected sir, administration office kab khulta hai",General Query,Neutral,Low
+"resparcted sir, my fee challan is showing wrong amount",Fee,Negative,Medium
+"Sir, teachers ka behavior bohat acha hai shukriya",General Query,Positive,Low
+"hello sir, fee challan generate nahi ho raha",Fee,Negative,Medium
+medical leave ki application kaise dein,Attendance,Neutral,Low
+mam attendance issue solve karne ka shukriya,Attendance,Positive,Low
+sir university website bohat slow chal rahi h abhi ke abhi chahiye,Technical,Negative,High
+"hello sir, LMS me course enroll kaise karte hain?",LMS,Neutral,Low
+"dear sir/mam, scholarship ke liye kaisay apply karte hyn",Fee,Neutral,Low
+"dear sir/mam, wifi ka password kaise milega koi guide kar dein",Technical,Neutral,Low
+LMS pe assignment kahan submit karna hai,LMS,Neutral,Low
+admit card download nai ho raha aur deadline tonight hai,Examination,Negative,High
+salam sir paper mein out of syllabus questions aaye please guide karein,Examination,Negative,Medium
+ATTENDANCE KA MINIMUM PARRCENTAGE KITNA HONA CHAHIYE PLZ BATAYEIN!!!,Attendance,Neutral,Low
+SIR PLEASE LMS PE ASIGNMENT SUBMIT KARNA AB BOHT ASAAN HAI THANKS,LMS,Positive,Low
+"assalam o alaikum sir, my assignment is not submitting on LMS pls help",LMS,Negative,Medium
+mam scholarship ka amount fee se minus nahi hua,Fee,Negative,Medium
+paparr ke marks galat lage hain kab tak theek hoga?,Examination,Negative,Medium
+"respected sir, library ki timing kya hai",General Query,Neutral,Low
+"assalam o alaikum sir, fee installment ka option hai kya",Fee,Neutral,Low
+"respected sir, lab ke naye computers bohat acche hain shukriya",Technical,Positive,Low
+"hello sir, portal login ke liye OTP ni aa raha",Technical,Negative,Medium
+"respected sir, my assignment is not submitting on LMS plz guide karein!!",LMS,Negative,Medium
+mam library me ac kaam nahi kar raha abhi ke abhi chahiye,General Query,Negative,High
+sir LMS quiz timer ghalat chal raha hai aur submit bhi nahi hua koi solution batayein,LMS,Negative,Medium
+"dear sir/mam, re-checking ka result abhi tak nahi aaya",Examination,Negative,Medium
+"Sir, fee installment ki facility ke liye thanks keep it up",Fee,Positive,Low
+Registration portal open nhi ho raha urgent hai,Registration,Negative,High
+mam portal pe error 500 aa raha hai aur deadline tonight hai!!,Technical,Negative,High
+Salam sir attendance sheet mein mera naam ni hai plz jaldi solve kijiye!!,Attendance,Negative,High
+mam attendance ka record kab update hota hai,Attendance,Neutral,Low
+sir attendance issue solve karne ka shukriya,Attendance,Positive,Low
+mam hostel mein paani nahin aa raha please help,General Query,Negative,Medium
+salam sir regestration mein meri semester galat show ho rhi h please jaldi solve kijiye,Registration,Negative,High
+sir please attendance kahan check kar sakte hain?,Attendance,Neutral,Low
+"hello sir, course registration nai ho rahi aur kl last date hy please help",Registration,Negative,High
+sir re-checking ka result abhi tak nahi aaya urgent hai,Examination,Negative,High
+salam sir my fee challan is showing wrong amount aur deadline tonight h!!,Fee,Negative,High
+"hello sir, lab ke computers kharab hn plz help",Technical,Negative,Medium
+sir pls library mein ac kaam nahin kar raha aur aj last date hai,General Query,Negative,High
+"Sir, medical leave ki attendence abhi tak adjust nahi hui please help",Attendance,Negative,Medium
+MAM MIDTERM KA SCHEDULE KAB AAYEGA,Examination,Neutral,Low
+SALAM SIR FEE DO DAFA DEDUCT HO GAYI HAI KOI SOLUTION BATAYEIN,Fee,Negative,Medium
+"dear sir/mam, fee challan mein galat amount aa raha hai",Fee,Negative,Medium
+software lab mein system baar baar hang ho jata hai,Technical,Negative,Medium
+"resprcted sir, library mein ac kaam nahin kar raha urgent hai",General Query,Negative,High
+university ka wifi bilkul kaam nai kar raha,Technical,Negative,Medium
+"Sir, course add drop kese karte hn",Registration,Neutral,Low
+sir when will the makeup exam be held koi guide kar dein,Examination,Neutral,Low
+sir plz meri registration bina wajah ke reject ho gayi plz help,Registration,Negative,Medium
+"resprcted sir, fee do dafa deduct ho gayi hy aur kal last date hy please help",Fee,Negative,High
+"Resparcted sir, lms ki lecture recordings boht helpful hn keep it up",LMS,Positive,Low
+Wifi ab bohat fast hai shukriya keep it up..,Technical,Positive,Low
+sir attendence kahan check kar sakte hain,Attendance,Neutral,Low
+"DEAR SIR/MAM, BANK SE FEE PAYMENT HO GAYI LEKIN CONFIRM NAHI HUI",Fee,Negative,Medium
+"hello sir, student ID card kahan se milega",General Query,Neutral,Low
+sir please bank se fee payment ho gayi lekin confirm nhi hui please check kar lein!!,Fee,Negative,Medium
+ATTENDANCE KAHAN CHECK KAR SAKTE HAIN KAL TAK BATANA HAI,Attendance,Neutral,Medium
+course registration nahi ho rahi,Registration,Negative,Medium
+course registration ni ho rahi aur deadline tonight hai,Registration,Negative,High
+re-checking ka result abhi tak nahi aaya boht zaroori hy please jaldi dekhein,Examination,Negative,High
+"hello sir, LMS ki lecture recordings boht helpful hain",LMS,Positive,Low
+sir please fee challan me galat amount aa raha hy,Fee,Negative,Medium
+"dear sir/mam, fee kis bank mein jama hoti hai koi guide kar dein",Fee,Neutral,Low
+sir please paper me out of syllabus questions aaye,Examination,Negative,Medium
+sir plz fee installment ki facility ke liye shukria keep it up,Fee,Positive,Low
+sir admit card download nahi hora kab tak theek hoga?,Examination,Negative,Medium
+"assalam o alaikum sir, library mein ac kaam ni kar raha please help",General Query,Negative,Medium
+"assalam o alaikum sir, fee jama kar di lekin portal pe show nai ho rahi",Fee,Negative,Medium
+sir teacher ne attendence sahi kar di shukriya keep it up,Attendance,Positive,Low
+"Sir, result mein meri grade galat h",Examination,Negative,Medium
+"assalam o alaikum sir, lab ke computers kharab hyn",Technical,Negative,Medium
+"hello sir, university website bohat slow chal rahi hai please guide karein!!!",Technical,Negative,Medium
+"assalam o alaikum sir, the library is always overcrowded kab tak theek hoga?",General Query,Negative,Medium
+what is the fee structure for this semester?,Fee,Neutral,Low
+"Hello sir, portal pe error 500 aa raha hai aur deadline kal hai :(",Technical,Negative,High
+"hello sir, the library is always overcrowded pls help",General Query,Negative,Medium
+salam sir bus ka time table follow nahi hota please guide karein!!!,General Query,Negative,Medium
+"hello sir, the library is always overcrowded aor deadline kl hy",General Query,Negative,High
+attendance issue solve karne ka shukria,Attendance,Positive,Low
+"dear sir/mam, portal ka username kya hota hai",Technical,Neutral,Low
+"respected sir, lab ke computers kharab hain please help",Technical,Negative,Medium
+mam result main meri grade galat hai aur kal exam hai,Examination,Negative,High
+mam administration office kab khulta hai,General Query,Neutral,Low
+exam arrangements bohat acha thay thank you,Examination,Positive,Low
+"assalam o alaikum sir, meri registration bina wajah ke reject ho gayi abhi ke abhi chahiye",Registration,Negative,High
+"dear sir/mam, VPN access kaise milega pls batayein",Technical,Neutral,Low
+sir exam schedule abhi tak upload nahi hua aur kal exam h!!,Examination,Negative,High
+Result jaldi announce karne ka shukriya keep it up,Examination,Positive,Low
+LMS pe assignment submit karna ab bohat asaan hai,LMS,Positive,Low
+"respected sir, fee challan kahan se download karun",Fee,Neutral,Low
+salam sir teacher bohat late aate hain,General Query,Negative,Medium
+SIR PLEASE ATTENDANCE KA MINIMUM PYRCENTAGE KITNA HONA CHAHIYE PLEASE BATAYEIN :(,Attendance,Neutral,Low
+"Sir, the campus wifi is not working at all koi solution batayein",Technical,Negative,Medium
+"hello sir, registration team ka thanks jaldi kaam kar diya thanks!!!",Registration,Positive,Low
+STUDENT ID CARD KAHAN SE MILEGA!!!,General Query,Neutral,Low
+"resprcted sir, IT department ne jaldi issue solve kar diya shukriya thank you :(",Technical,Positive,Low
+"Sir, fee installment ka option hai kia koi guide kar dein",Fee,Neutral,Low
+"hello sir, student portal open nahin ho rha and the deadline is tomorrow",Technical,Negative,High
+MAM LAB KE COMPUTERS KHARAB HAIN,Technical,Negative,Medium
+"SIR, REGISTRATION PORTAL OPEN NAI HO RAHA KAB TAK THEEK HOGA?",Registration,Negative,Medium
+"hello sir, student portal oprn nahi ho raha!!!",Technical,Negative,Medium
+mam admit card download ni ho raha!!,Examination,Negative,Medium
+library mein ac kaam nahi kar raha..,General Query,Negative,Medium
+"Sir, registration ke liye kya documents chahiye?!!",Registration,Neutral,Low
+SECTION CHANGE REQUEST ABHI TAK APPROVE NAHI HUI PLZ GUIDE KAREIN!!!,Registration,Negative,Medium
+attendance system ab bohat transparent h thank you,Attendance,Positive,Low
+"hello sir, teacher ne attendance sahi kar di thanks thank you",Attendance,Positive,Low
+"dear sir/mam, course add nahi ho raha section full bata raha hai aaj hi resolve karwa dein",Registration,Negative,High
+is dafa registration process bohat asaan tha shukriya,Registration,Positive,Low
+"respycted sir, roll number slip nahi mil rahi kab tak theek hoga?",Examination,Negative,Medium
+"assalam o alaikum sir, scholarship ke liye kaise apply karte hyn",Fee,Neutral,Low
+sir how do I get a bus pass koi guide kar dein,General Query,Neutral,Low
+"SIR, PORTAL KA USERNAME KYA HOTA HY",Technical,Neutral,Low
+sir result kab announce hoga?,Examination,Neutral,Low
+mam registration ke liye kya documents chahiye koi guide kar dein,Registration,Neutral,Low
+sir exam arrangements bohat acha thay keep it up,Examination,Positive,Low
+"dear sir/mam, attendance issue solve karne ka shukriya thank you",Attendance,Positive,Low
+sir please teachers ka behavior bohot acha hai shukria shukria,General Query,Positive,Low
+"resprcted sir, washroom mein safai nhi hoti aaj hi resolve karwa dein",General Query,Negative,High
+sir please parking mein jagah nahi milti kab tak theek hoga?,General Query,Negative,Medium
+"respycted sir, where do I submit a leave application :(",Attendance,Neutral,Low
+wifi ab bohat fast hy shukriya,Technical,Positive,Low
+PORTAL LOGIN KE LIYE OTP NAHI AA RAHA AUR KL LAST DATE HY PLZ HELP,Technical,Negative,High
+lab ke naye computers bohat acche hain shukriya..,Technical,Positive,Low
+attendance 75 percent se kam show ho rahi hai halanke main classes attend karta hoon :(,Attendance,Negative,Medium
+"Sir, transcript ke liye kaise apply karte hain jald batayein",General Query,Neutral,Medium
+"assalam o alaikum sir, teacher ne meri attendance mark nahi ki and the deadline is tomorrow :(",Attendance,Negative,High
+Sir pls lms mein course enroll kaisay karte hain,LMS,Neutral,Low
+"SIR, SCHOLARSHIP MILNE PAR BOHAT SHUKRIYA",Fee,Positive,Low
+"hello sir, portal login ke liye OTP nahi aa raha",Technical,Negative,Medium
+fee challan generate ni ho raha pls guide karein,Fee,Negative,Medium
+MAM MERI ATTENDANCE GALAT LAGI HUI H KOI SOLUTION BATAYEIN,Attendance,Negative,Medium
+sir plz LMS se course material download nahi hora bohat zaroori hai plz jaldi dekhein,LMS,Negative,High
+SIR ATTENDANCE 75 PRRCENT SE KAM SHOW HORI HAI HALANKE MAIN CLASSES ATTEND KARTA HOON!!!,Attendance,Negative,Medium
+Sir bank se fee payment ho gayi lekin confirm nahi hui,Fee,Negative,Medium
+sir student portal open nai ho rha please help,Technical,Negative,Medium
+mam IT department ne jaldi issue solve kar diya shukriya thank you,Technical,Positive,Low
+"RESPARCTED SIR, LAB KE NAYE COMPUTERS BOHAT ACCHE HAIN KEEP IT UP",Technical,Positive,Low
+"Sir, degree verification kese hoti hai koi guide kar dein",General Query,Neutral,Low
+WHERE IS THE PRINTING FACILITY AVAILABLE!!!,Technical,Neutral,Low
+"dear sir/mam, LMS pe quiz ka schedule kahan milega!!",LMS,Neutral,Low
+meri attendence galat lagi hui hai kab tak theek hoga?!!,Attendance,Negative,Medium
+"hello sir, fee installment ki facility ke liye shukriya keep it up",Fee,Positive,Low
+salam sir attendence sheet mein mera naam nahi hai..,Attendance,Negative,Medium
+the campus wifi is not working at all koi solution batayein!!,Technical,Negative,Medium
+"Hello sir, exam hall ka seating plan kahan h",Examination,Neutral,Low
+sir please attendance shortage condone nai ki ja rahi and the deadline is tomorrow!!!,Attendance,Negative,High
+"Sir, library mein ac kaam ni kar raha",General Query,Negative,Medium
+what is the fee structure for this semester :(,Fee,Neutral,Low
+salam sir admit card download nhi ho raha aur kal exam hai,Examination,Negative,High
+sir my exam result shows wrong grade please guide karein,Examination,Negative,Medium
+sir please IT department ne jaldi issue solve kar diya shukriya,Technical,Positive,Low
+salam sir scholarship ke liye kaise apply karte hain?,Fee,Neutral,Low
+LMS par meri uploaded file show nhi ho rahi,LMS,Negative,Medium
+SALAM SIR STUDENT PORTAL OPARN NAHIN HO RHA OR DEADLINE TONIGHT HAI,Technical,Negative,High
+sir pls washroom mein safai nahi hoti kab tak theek hoga?,General Query,Negative,Medium
+sir attendance kahan check kar sakte hain,Attendance,Neutral,Low
+"ASSALAM O ALAIKUM SIR, WIFI KA PASSWORD KAISE MILEGA",Technical,Neutral,Low
+attendence shortage condone nahi ki ja rahi aur kl last date hy please help,Attendance,Negative,High
+sir plz where is the printing facility available jald batayein,Technical,Neutral,Medium
+sir please email account login nahin ho raha please help,Technical,Negative,Medium
+"respycted sir, LMS py lecture slides kab upload hongi",LMS,Neutral,Low
+salam sir wifi ka password kaise milega?,Technical,Neutral,Low
+salam sir attendance update ni ho rahi please help,Attendance,Negative,Medium
+"assalam o alaikum sir, roll number slip nahi mil rahi koi solution batayein",Examination,Negative,Medium
+"Sir, exam arrangements bohat acha thay",Examination,Positive,Low
+"assalam o alaikum sir, LMS pe assignment submit nai ho rhi urgent hai",LMS,Negative,High
+LMS PY MERI UPLOADED FILE SHOW NAI HO RAHI AJ HI RESOLVE KARWA DEIN,LMS,Negative,High
+"assalam o alaikum sir, what is the fee structure for this semester koi guide kar dein",Fee,Neutral,Low
+"Sir, bank se fee payment ho gayi lekin confirm nahin hui",Fee,Negative,Medium
+LMS py asignment submit nahi ho rahi please jaldi solve kijiye,LMS,Negative,High
+"dear sir/mam, canteen mein khana bohot ganda hai or kal exam hai",General Query,Negative,High
+fee challan kahan se download karun koi guide kar dein,Fee,Neutral,Low
+RESULT KAB ANNOUNCE HOGA :(,Examination,Neutral,Low
+salam sir registration team ka shukriya jaldi kaam kar diya keep it up,Registration,Positive,Low
+"Sir, course drop karne ka option nhi aa raha pls guide karein",Registration,Negative,Medium
+result me meri grade galat hai pls help,Examination,Negative,Medium
+Sir please portal login ke liye otp nahi aa raha koi solution batayein,Technical,Negative,Medium
+salam sir result me meri grade galat hai koi solution batayein,Examination,Negative,Medium
+"Sir, attendance ka minimum percentage kitna hona chahiye",Attendance,Neutral,Low
+sir exam ka paper bohat fair tha shukria,Examination,Positive,Low
+sir please scholarship ka amount fee se minus ni hua aaj hi resolve karwa dein,Fee,Negative,High
+"resprcted sir, LMS pr assignment submit karte hue error aa raha hai plz check kar lein",LMS,Negative,Medium
+"Dear sir/mam, exam hall ka seating plan kahan hai please batayein",Examination,Neutral,Low
+"respected sir, lab mein projector kaam nahi kar raha aur kal last date hai plz help",Technical,Negative,High
+"Sir, scholarship ka amount fee se minus nhi hua aur deadline tonight hai",Fee,Negative,High
+"Sir, degree verification kaise hoti h please batayein..",General Query,Neutral,Low
+mam attendance shortage ki wajah se exam mein nahi baithne de rahe,Attendance,Negative,Medium
+mam my assignment is not submitting on LMS pls check kar lein,LMS,Negative,Medium
+"dear sir/mam, mera course LMS mein nazar ni aa raha please help",LMS,Negative,Medium
+"assalam o alaikum sir, my fee challan is showing wrong amount pls guide karein",Fee,Negative,Medium
+"hello sir, LMS se course material download nahi ho raha please help",LMS,Negative,Medium
+"dear sir/mam, exam hall ka seating plan kahan hai!!",Examination,Neutral,Low
+"Sir, is dafa registration process bohot asaan tha",Registration,Positive,Low
+"dear sir/mam, fee challan mein galat amount aa raha hai kab tak theek hoga?",Fee,Negative,Medium
+"assalam o alaikum sir, wifi ab bohat fast hai shukriya shukriya",Technical,Positive,Low
+"assalam o alaikum sir, fee jama karne ki last date kia hai pls batayein",Fee,Neutral,Low
+"hello sir, teacher bhot late aate hain aur deadline tonight hai",General Query,Negative,High
+"respected sir, LMS pe assignment submit nai ho rahi",LMS,Negative,Medium
+"Sir, course registration ki last date kab h is hafte me chahiye",Registration,Neutral,Medium
+salam sir wifi ka password kaise milega,Technical,Neutral,Low
+WHERE IS THE PRINTING FACILITY AVAILABLE PLEASE BATAYEIN,Technical,Neutral,Low
+sir where is the printing facility available is hafte mein chahiye,Technical,Neutral,Medium
+"hello sir, course drop karne ka option ni aa raha aur deadline tonight hai",Registration,Negative,High
+Sir please email account login ni hora kab tak theek hoga?,Technical,Negative,Medium
+"assalam o alaikum sir, fee ka process bohat smooth tha shukriya",Fee,Positive,Low
+"dear sir/mam, portal ka username kya hota h please batayein",Technical,Neutral,Low
+mam result kab announce hoga koi guide kar dein,Examination,Neutral,Low
+"respected sir, exam hall ka seating plan kahan hai",Examination,Neutral,Low
+sir plz campus ka environment bohot acha hai,General Query,Positive,Low
+"assalam o alaikum sir, registration me meri semester galat show ho rahi hai urgent hai",Registration,Negative,High
+mam fee kis bank mein jama hoti h,Fee,Neutral,Low
+SIR FEE DO DAFA DEDUCT HO GAYI HAI PLEASE GUIDE KAREIN,Fee,Negative,Medium
+"dear sir/mam, present hone ke bawajood portal pe absent show hora hai please help",Attendance,Negative,Medium
+salam sir university email kaise banate hain please batayein,Technical,Neutral,Low
+"hello sir, result mein meri grade galat hy",Examination,Negative,Medium
+"respected sir, email account login nahi ho raha please check kar lein",Technical,Negative,Medium
+exam hall ka seating plan kahan hai,Examination,Neutral,Low
+Salam sir canteen me khana bhot ganda hai abhi ke abhi chahiye,General Query,Negative,High
+"SIR, LMS PE ASIGNMENT KAHAN SUBMIT KARNA HAI",LMS,Neutral,Low
+"RESPECTED SIR, ATTENDANCE SHEET MEIN MERA NAAM NAHI HAI KAB TAK THEEK HOGA?",Attendance,Negative,Medium
+"Sir, exam schedule abhi tak upload nahi hua aur kal exam hai",Examination,Negative,High
+LMS PE ASSIGNMENT SUBMIT NAHI HO RAHI BOHT ZAROORI HAI PLEASE JALDI DEKHEIN,LMS,Negative,High
+"Sir, class room main bohat shor hota hai plz check kar lein",General Query,Negative,Medium
+MY ATTENDENCE IS MARKED WRONG IN THE PORTAL PLEASE HELP,Attendance,Negative,Medium
+LMS PR QUIZ KA SCHEDULE KAHAN MILEGA?!!!,LMS,Neutral,Low
+sir please scholarship ke liye kaise apply karte hain is hafte mein chahiye..,Fee,Neutral,Medium
+"assalam o alaikum sir, LMS pe asignment submit karte hue error aa raha hai kab tak theek hoga?",LMS,Negative,Medium
+"hello sir, washroom mein safai nahi hoti please help",General Query,Negative,Medium
+"assalam o alaikum sir, exam arrangements bohat acha thay thank you",Examination,Positive,Low
+"Sir, paper ke marks galat lage hain",Examination,Negative,Medium
+sir exam ki date do papyrs ke saath clash kar rahi hy please check kar lein,Examination,Negative,Medium
+course regestration ki last date kab hai koi guide kar dein,Registration,Neutral,Low
+"Sir, LMS ka password reset kaise hoga",LMS,Neutral,Low
+"Sir, registration ke liye kya documents chahiye",Registration,Neutral,Low
+attendence sheet mein mera naam nai hai aor kal last date hai please help,Attendance,Negative,High
+"HELLO SIR, HOW DO I REGISTER FOR A PRE-REQUISITE COURSE KOI GUIDE KAR DEIN",Registration,Neutral,Low
+salam sir class room mein bohat shor hota hy,General Query,Negative,Medium
+"RESPECTED SIR, SCHOLARSHIP MILNE PAR BOHAT SHUKRIYA",Fee,Positive,Low
+sir please LMS pe assignment submit karte hue error aa raha hai please check kar lein,LMS,Negative,Medium
+"Sir, registration main meri semester galat show ho rhi hai",Registration,Negative,Medium
+sir attendance ka minimum percentage kitna hona chahiye!!,Attendance,Neutral,Low
+admit card download nahi ho raha please help,Examination,Negative,Medium
+Sir please course registration nahi ho rahi or kal exam hai,Registration,Negative,High
+"assalam o alaikum sir, fee jama kar di lekin portal pe show nahi hori aur deadline tonight hai",Fee,Negative,High
+sir library ka mahol bohat acha hai thank you,General Query,Positive,Low
+"assalam o alaikum sir, software lab me system baar baar hang ho jata hai please help",Technical,Negative,Medium
+Mam teacher bohat late aate hn aur kal exam h :(,General Query,Negative,High
+salam sir midterm ka schedule kab aayega,Examination,Neutral,Low
+mam transcript ke liye kese apply karte hain kal tak batana hai,General Query,Neutral,Medium
+result jaldi announce karne ka shukriya,Examination,Positive,Low
+Salam sir bus ka time table follow ni hota,General Query,Negative,Medium
+"Hello sir, fee ka process bohat smooth tha thank you",Fee,Positive,Low
+salam sir medical leave ki attendance abhi tak adjust nhi hui aur deadline tonight hai,Attendance,Negative,High
+"dear sir/mam, attendance update nahin hori urgent hai",Attendance,Negative,High
+"dear sir/mam, portal par error 500 aa raha hai plz guide karein",Technical,Negative,Medium
+"hello sir, fee refund abhi tak nahin mila koi solution batayein",Fee,Negative,Medium
+"respected sir, the library is always overcrowded aur deadline kal hai",General Query,Negative,High
+"Respected sir, university website bohat slow chal rahi hai kab tak theek hoga?",Technical,Negative,Medium
+"assalam o alaikum sir, exam hall ka seating plan kahan hai",Examination,Neutral,Low
+salam sir software lab mein system baar baar hang ho jata hai plz check kar lein,Technical,Negative,Medium
+result jaldi announce karne ka shukriya thank you,Examination,Positive,Low
+"assalam o alaikum sir, LMS pr meri uploaded file show nahin ho rahi urgent hai",LMS,Negative,High
+re-checking ke liye kaise apply karun!!!,Examination,Neutral,Low
+attendance update nahi ho rhi aor deadline tonight h,Attendance,Negative,High
+"assalam o alaikum sir, how do I get a bus pass",General Query,Neutral,Low
+"assalam o alaikum sir, lab main software install kaise hoga!!!",Technical,Neutral,Low
+"Hello sir, fee ka process bohat smooth tha",Fee,Positive,Low
+LMS pe assignment submit nahin horahi!!!,LMS,Negative,Medium
+registration confirm hone ke baad bhi course list mein nahi hai and the deadline is tomorrow,Registration,Negative,High
+sir plz result kab announce hoga kal tak batana hai,Examination,Neutral,Medium
+fee challan mein galat amount aa raha h aur kal last date h please help,Fee,Negative,High
+"dear sir/mam, meri registration bina wajah ke reject ho gayi aur deadline kl hai",Registration,Negative,High
+"dear sir/mam, bank se fee payment ho gayi lekin confirm nahin hui bohat zaroori hai pls jaldi dekhein!!!",Fee,Negative,High
+"dear sir/mam, exam ki date do paparrs ke saath clash kar rahi hy",Examination,Negative,Medium
+sir pls the library is always overcrowded,General Query,Negative,Medium
+"Sir, midterm ka result abhi tak nahin aaya and the deadline is tomorrow",Examination,Negative,High
+sir midterm ka schedule kab aayega,Examination,Neutral,Low
+"Sir, section change ho sakta hai kia",Registration,Neutral,Low
+sir washroom main safai nhi hoti please jaldi solve kijiye,General Query,Negative,High
+course drop karne ka option nahi aa raha please help,Registration,Negative,Medium
+salam sir lab ke computers kharab hyn pls help,Technical,Negative,Medium
+my fee challan is showing wrong amount plz check kar lein,Fee,Negative,Medium
+university ka wifi bilkul kaam nhi kar raha aor aj last date hai,Technical,Negative,High
+degree verification kese hoti hai,General Query,Neutral,Low
+"dear sir/mam, LMS pr quiz ka schedule kahan milega kl tak batana hai",LMS,Neutral,Medium
+sir please online registration ki facility bohat acha hai keep it up,Registration,Positive,Low
+sir LMS pr lecture slides kab upload hongi is hafte mein chahiye,LMS,Neutral,Medium
+salam sir when will the makeup exam be held,Examination,Neutral,Low
+section change ho sakta hai kia please batayein,Registration,Neutral,Low
+"assalam o alaikum sir, scholarship ke liye kaise apply karte hain please batayein",Fee,Neutral,Low
+sir please when will the makeup exam be held?!!!,Examination,Neutral,Low
+LMS ka naya interface boht acha hai shukriya,LMS,Positive,Low
+"hello sir, medical leave ki application kaise dein",Attendance,Neutral,Low
+"assalam o alaikum sir, LMS pe marks update nai hue please help",LMS,Negative,Medium
+email account login nahi horaha koi solution batayein,Technical,Negative,Medium
+LMS me course enroll kaise karte hain,LMS,Neutral,Low
+LMS par lecture slides kab upload hongi?!!!,LMS,Neutral,Low
+section change request abhi tak approve nahi hui bhot zaroori hai please jaldi dekhein!!!,Registration,Negative,High
+mam degree verification kese hoti hai plz batayein,General Query,Neutral,Low
+mam re-checking ka result abhi tak nahin aaya please help,Examination,Negative,Medium
+LMS ka password reset kaise hoga?,LMS,Neutral,Low
